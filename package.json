@@ -15,7 +15,7 @@
     "http-proxy-middleware": "^0.19.1",
     "mongoose": "^5.2.13",
     "nodemon": "^1.18.3",
-    "npm": "^6.4.0",
+    "npm": "^6.13.4",
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
     "passport-google-oauth20": "^1.0.0"
